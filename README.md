@@ -1,0 +1,1 @@
+# browserExtension1.0
